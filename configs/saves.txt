@@ -1,1 +1,1 @@
-'1.0_autosave_2.sav'
+.*\.(sav|save)$
